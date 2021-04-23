@@ -30,8 +30,8 @@ body{
     height: 870px;
     
     background: rgb(0, 4, 40), blur(5px);  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, rgba(4, 76, 171, 0.61), rgb(0, 4, 40)), url("/img/caracas.jpg"),;  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, rgba(4, 76, 171, 0.61), rgb(0, 4, 40)), url("/img/caracas.jpg"); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: -webkit-linear-gradient(to right, rgba(4, 76, 171, 0.61), rgb(0, 4, 40)), url("https://jamv11.github.io/JavierMoncada/img/caracas.jpg"),;  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, rgba(4, 76, 171, 0.61), rgb(0, 4, 40)), url("https://jamv11.github.io/JavierMoncada/img/caracas.jpg"); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-attachment: fixed;
     background-position: center;
     background-size:cover;
