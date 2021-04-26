@@ -1,8 +1,18 @@
-body{
-    font-family: Sanchez,Avenir, Helvetica, Arial, sans-serif;
-    min-height: calc(100vh);
+*{
+  font-family:'Sanchez', serif ;
 }
 
+body{
+    min-height: calc(100vh);
+}
+.img-tit-presentacion{
+  width: 100px;
+  height: 100px;
+
+}
+.tit-present{
+  font-family:'Yellowtail', cursive;
+}
  
 .imagen_perfil{
     
