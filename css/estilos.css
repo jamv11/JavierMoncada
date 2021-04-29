@@ -283,10 +283,11 @@ video {
 .curriculum {
   margin-top: 200px;
   margin-bottom: 100px;
+  margin-left:auto;
+  margin-right:auto;
   width: 90%;
   border-bottom: 7px solid rgb(13, 48, 119);
   width: 400px;
-  text-align: center;
 }
 
 .iconos-redes{
