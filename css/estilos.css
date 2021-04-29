@@ -258,9 +258,9 @@ video {
   box-shadow: 4px 4px 5px 0px hsla(0, 0%, 0%, 0.582);
 }
 
-.fondo-contacto{
+.carta-contacto{
   box-shadow: 4px 4px 5px 0px hsla(0, 0%, 0%, 0.582) !important;
-  margin-top: 100px;
+  margin-top: 200px;
   background: -webkit-linear-gradient(to right, rgba(4, 76, 171, 0.61), rgb(0, 4, 40)), url("https://jamv11.github.io/JavierMoncada/img/caracas-min.jpg"), ;
   /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, rgba(4, 76, 171, 0.61), rgb(0, 4, 40)), url("https://jamv11.github.io/JavierMoncada/img/caracas-min.jpg");
@@ -268,12 +268,25 @@ video {
   background-position: center;
   background-size: cover;
 }
-
+.decorativos-enlaces{
+  text-decoration: none;
+  color: #fff;
+} 
+.bi-envelope-open-fill{
+  margin-right: 10px;
+  text-decoration: none;
+}
+.bi-linkedin{
+  margin-right: 10px;
+  text-decoration: none;
+}
 .curriculum {
   margin-top: 200px;
-  margin-bottom: 200px;
+  margin-bottom: 100px;
   width: 90%;
-  margin: auto;
+  border-bottom: 7px solid rgb(13, 48, 119);
+  width: 400px;
+  text-align: center;
 }
 
 .iconos-redes{
