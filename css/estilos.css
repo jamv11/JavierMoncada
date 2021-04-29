@@ -251,7 +251,9 @@ video {
   box-shadow: 4px 4px 5px 0px hsla(0, 0%, 0%, 0.582) !important;
 
 }
-
+.contenedor-img{
+  height: 350px;
+}
 .img-contacto{
   width: 250px;
   height: 250px;
@@ -313,4 +315,6 @@ video {
   .margin-icon{
     margin-left: 2rem;
   }
+
 }
+
