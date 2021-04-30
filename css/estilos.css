@@ -287,13 +287,25 @@ video {
   margin-bottom: 100px;
   margin-left:auto;
   margin-right:auto;
-  width: 90%;
-  border-bottom: 7px solid rgb(13, 48, 119);
   width: 400px;
+  border-bottom: 7px solid rgb(13, 48, 119);
+  
 }
 
 .iconos-redes{
   margin-right: 3rem;
+}
+
+.proyectos{
+
+  width: 45%;
+  padding: 0;
+  border:0;
+  
+}
+
+.img-proyectos{
+  background-size:cover;
 }
 
 @media screen and (max-width: 767px) {
@@ -312,9 +324,21 @@ video {
     width: 90%;
   margin: auto;
   }
+  .curriculum {
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-left:auto;
+    margin-right:auto;
+    width: 90%;
+    border-bottom: 7px solid rgb(13, 48, 119);
+    
+  }
   .margin-icon{
     margin-left: 2rem;
   }
-
+  .proyectos{
+    width: 700px;
+    max-width: 90%;
+  }
 }
 
