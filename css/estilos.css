@@ -270,6 +270,12 @@ video {
   background-position: center;
   background-size: cover;
 }
+
+.contactame-icon{
+  display: flex;
+  justify-content:space-evenly;
+  width: 100%;
+}
 .decorativos-enlaces{
   text-decoration: none;
   color: #fff;
@@ -342,3 +348,20 @@ video {
   }
 }
 
+@media screen and (max-width: 462px) {
+  .img-contacto{
+    width: 200px;
+    height: 200px;
+    box-shadow: 4px 4px 5px 0px hsla(0, 0%, 0%, 0.582);
+  }
+  .margin-icon{
+    margin-left: 2rem;
+  }
+  .contactame-icon{
+    display: flex;
+    justify-content:space-evenly;
+  }
+  .link-correo{
+    display: none;
+  }
+}
