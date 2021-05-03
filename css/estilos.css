@@ -59,6 +59,7 @@ nav{
   margin-right: 50px;
 }
 
+
 .presentacion {
   height: 700px;
   background: rgb(0, 4, 40), blur(5px);
@@ -86,8 +87,7 @@ nav{
 .carta-perfil {
   margin-top: 200px;
   margin-bottom: 200px;
-  max-height: 100%;
-  height: 100%;
+
 }
 
 .img-presentacion {
@@ -407,5 +407,13 @@ video {
   .link-correo{
     display: none;
   }
-
+  .contenedor-quien-soy{
+    font-size: 100%;
+    overflow: hidden;
+  
+  }
+  .img-presentacion{
+    width: 100%;
+    height: 100%;
+  }
 }
