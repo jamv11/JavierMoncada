@@ -238,6 +238,7 @@ svg.radial-progress-3 text {
   padding-top: 100px;
   margin: auto;
   text-align: center;
+  
 }
 .card-proyecto{
   margin:auto;
@@ -369,7 +370,7 @@ video {
   }
   .portafolio{
   
-    width: 90%;
+    width: 65%;
   margin: auto;
   }
   .curriculum {
