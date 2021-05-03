@@ -253,6 +253,7 @@ svg.radial-progress-3 text {
   background-size: cover;
   border-radius: 4px;
   color: #fff;
+  min-height: calc(50vh);
 
 }
 .card-proyecto-cont{
@@ -284,6 +285,7 @@ footer {
 video {
   width: 130%;
   box-shadow: 4px 4px 5px 0px hsla(0, 0%, 0%, 0.582) !important;
+  style="min-height: calc(50vh);"
 
 }
 .contenedor-img{
