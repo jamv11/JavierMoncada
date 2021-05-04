@@ -18,6 +18,12 @@ window.sr = ScrollReveal();
         origin: 'top',
         distance: '-50px'
     });
+    sr.reveal('.portafolio', { 
+        duration: 1000,
+        scale:1.3,
+      /*   origin: 'top',
+        distance: '-50px' */
+    });
     sr.reveal('.card-proyecto-1', { 
         duration: 1000,
         scale:1.1,
@@ -39,12 +45,6 @@ window.sr = ScrollReveal();
         distance: '-50px' */
     });
     sr.reveal('.habilidades', { 
-        duration: 1000,
-        scale:1.3,
-      /*   origin: 'top',
-        distance: '-50px' */
-    });
-    sr.reveal('.portafolio', { 
         duration: 1000,
         scale:1.3,
       /*   origin: 'top',
