@@ -255,7 +255,10 @@ svg.radial-progress-3 text {
   border-radius: 4px;
   color: #fff;
   min-height: calc(50vh);
-
+  transition: 0.4s;
+}
+.card-proyecto:hover{
+  transform: scale(1.1);
 }
 .card-proyecto-cont{
   
