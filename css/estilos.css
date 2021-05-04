@@ -289,7 +289,7 @@ footer {
 video {
   width: 130%;
   box-shadow: 4px 4px 5px 0px hsla(0, 0%, 0%, 0.582) !important;
-  style="min-height: calc(50vh);"
+  min-height: calc(50vh);
 
 }
 .contenedor-img{

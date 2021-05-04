@@ -20,7 +20,7 @@ window.sr = ScrollReveal();
     });
     sr.reveal('.card-proyecto-1', { 
         duration: 1000,
-        scale:1.1
+        scale:1.1,
         delay:500
         /* origin: 'top',
         distance: '-50px' */
