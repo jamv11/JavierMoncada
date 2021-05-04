@@ -122,8 +122,8 @@ text-align: center;
   color: #fff;
 }
 .barra-alto{
-  height:25px;
-  background: hsla(0, 0%, 100%, 0.247);
+  height:50px;
+  background: rgba(4, 76, 171, 0.356);
   margin-bottom: 30px;
   font-size: 20px;
   text-align: center;
