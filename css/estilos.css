@@ -142,7 +142,7 @@ svg.radial-progress-1 {
 svg.radial-progress-1 circle {
 
   fill: rgba(0, 0, 0, 0);
-  stroke: rgb(123, 84, 180);
+  stroke: rgb(4, 76, 171);
   stroke-dashoffset: 219.91148575129;
   stroke-width: 10;
 }
@@ -174,7 +174,7 @@ svg.radial-progress-2 {
 svg.radial-progress-2 circle {
 
   fill: rgba(0, 0, 0, 0);
-  stroke: rgb(68, 188, 132);
+  stroke: rgb(4, 76, 171);
   stroke-dashoffset: 219.91148575129;
   stroke-width: 10;
 }
@@ -206,7 +206,7 @@ svg.radial-progress-3 {
 svg.radial-progress-3 circle {
 
   fill: rgba(0, 0, 0, 0);
-  stroke: rgb(188, 68, 132);
+  stroke: rgb(4, 76, 171);
   stroke-dashoffset: 219.91148575129;
   stroke-width: 10;
 }
