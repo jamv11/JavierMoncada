@@ -50,6 +50,12 @@ window.sr = ScrollReveal();
       /*   origin: 'top',
         distance: '-50px' */
     });
+    sr.reveal('.curriculum', { 
+        duration: 1000,
+        scale:1.3,
+      /*   origin: 'top',
+        distance: '-50px' */
+    });
 
 
     
