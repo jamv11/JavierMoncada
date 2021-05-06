@@ -24,15 +24,15 @@ window.sr = ScrollReveal();
       /*   origin: 'top',
         distance: '-50px' */
     });
-    sr.reveal('.card-proyecto-1', { 
-        duration: 1000,
+    sr.reveal('#card-proyecto-1', { 
+        duration: 1500,
         scale:1.1,
         delay:500
         /* origin: 'top',
         distance: '-50px' */
     });
     sr.reveal('.card-proyecto-2', { 
-        duration: 1000,
+        duration: 2000,
         scale:1.1,
         delay:1000
       /*   origin: 'top',
