@@ -64,4 +64,15 @@ $(window).scroll(function () {
             }, 1250);
         }
     });
+
+    /*  animacion de las barras de progreso */
+
 }).trigger('scroll');
+
+$(document).ready(function() {
+
+    $('.html-bar')
+    .animate({'width':'0%'})
+    .animate({'width':'80%'},1500)
+    
+});
